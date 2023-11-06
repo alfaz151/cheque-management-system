@@ -1,0 +1,21 @@
+{
+    "rabbitmq": {
+		"user": "",
+		"password": "",
+		"serverip": "127.0.0.1",
+		"secure": false,
+		"exchange": "sysevents"
+	},
+    "database":[
+        {
+            "user":"",
+            "password":"",
+            "connectString":""
+        }
+    ],
+    "DATE_FORMAT":"DD-MM-YYYY",
+    "email":{
+        "id":"",
+        "password":""
+    }
+}

@@ -1,0 +1,5 @@
+config/dbconfig.json
+node_modules/
+Logs/*
+.vscode/
+package-lock.json
